@@ -1,6 +1,8 @@
 public class DEMO{
 public static void main(String[] args){
-    system.out.println('DevOps')
+    while(true){
+	system.out.println('DevOps')
 
-}
+		}
+	}
 }
